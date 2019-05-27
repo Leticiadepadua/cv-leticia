@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+body {
+    background-color: #F1B2FF;
+    font-family: 'Raleway', sans-serif;
+}
+ 
+}
+#cvlele {
+    text-align: center;
+    font-style: italic;
+
+}
+p {
+    font-size: 14px;
+    text-align: 9px;
+}
+mark {
+    background-color: #D061E8;
+}
+em {
+    color:#8761E8;
+}
+strong {
+    color: #D461E8;
+}
+#index:hover {
+    font-size: 10px;
+    color: #6B73FF;
+
+}
+    
+
+}    
+
