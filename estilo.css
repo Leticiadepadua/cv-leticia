@@ -6,30 +6,49 @@ body {
 }
  
 }
-#cvlele {
-    text-align: center;
+h1{
+    text-align: left;
     font-style: italic;
-
 }
+
 p {
-    font-size: 14px;
+    font-size: 20px;
     text-align: 9px;
+    padding-top: 10px;
 }
 mark {
     background-color: #D061E8;
 }
-em {
-    color:#8761E8;
-}
+
 strong {
     color: #D461E8;
+   
 }
-#index:hover {
-    font-size: 10px;
-    color: #6B73FF;
 
-}
     
+.container {
+    background-color: white;
+    width: 80%;
+    margin-top: 30px;
+  
+}
 
-}    
+#dados {
+    color: #D461E8
+}
 
+#formacao {
+    color: #D461E8;
+    margin-top: 30px;
+
+}
+
+#exp {
+    color: #D461E8;
+    margin-top: 30px;
+}
+
+#logo {
+    height: 270px;
+    margin-top: 20px;
+}
